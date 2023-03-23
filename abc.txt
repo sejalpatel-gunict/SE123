@@ -1,9 +1,5 @@
+This is BHavesh Chavda 
 
-Hi
-Hello jhjkjghkjdm,bds
-yhvddb
-Hi New line added 
+this from Push 
 
-Dinosaur
-
-Hi A CLass
+This From Pull 
